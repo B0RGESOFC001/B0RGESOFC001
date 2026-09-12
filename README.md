@@ -1,6 +1,6 @@
 ## Olá! Eu sou BORGES.
 
-- 📚 Estudando PHP
+- 📚 Estudando
 
 
 <div style="display: inline_block">
